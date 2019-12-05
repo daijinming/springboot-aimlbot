@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AimlbotApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(AimlbotApplication.class, args);
 	}
 

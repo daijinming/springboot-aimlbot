@@ -17,13 +17,13 @@ import com.liuniu.aimlbot.service.AskToAimlService;
  * @date 2018年12月25日上午11:33:10
  */
 @RestController
-@RequestMapping("/aiml")
+@RequestMapping("/api")
 public class AimlController {
 	@Autowired
 	private AskToAimlService askAimlService;
 	@GetMapping("/ask")
-	public String getAnswer(@RequestParam String question){
-		String response = askAimlService.response(question);
+	public String getAnswer(@RequestParam String q){
+		String response = askAimlService.response(q);
 		return response;
 	}
 

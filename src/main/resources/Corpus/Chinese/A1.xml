@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>*企业怎么起名*</pattern>
+        <template>
+            <random>
+                <li>企业名称由以下四个构成要素：行政区划+字号+行业表述+组织形式。行政区划有四种情况：天津、天津市、天津市滨海新区、天津滨海新区、不含行政区划。字号应当是本企业区别于同行业其他企业的独创性文字；行业表述应当体现本企业的从事的主营业务；组织形式体现了企业的类型，如类型为有限公司，则组织形式应当表述为有限公司或有限责任公司。。</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>*住宅*可以*开公司*</pattern>
+        <template>
+            <random>
+                <li>可以，需要提交不扰民证明（全楼业主签字）。。</li>
+            </random>
+        </template>
+    </category>
+</aiml>
