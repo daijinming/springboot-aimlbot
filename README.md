@@ -1,4 +1,4 @@
-https://blog.csdn.net/xvshu/article/details/80973649
+
 
 # springboot-aimlbot
 基于aiml实现  智能问答机器人   demo
@@ -33,3 +33,6 @@ https://blog.csdn.net/xvshu/article/details/80973649
 
 注意文件的存储编码 `UTF-8`
 
+5、aiml 标记语言的参考网址
+
+`https://blog.csdn.net/xvshu/article/details/80973649`
