@@ -20,7 +20,7 @@
 ```
 增加JAVA_HOME  C:\Program Files\Java\jdk1.8.0_231
 增加M2_HOME C:\Program Files\apache-maven-3.6.3
-
+增加PATH %M2_HOME%\bin（用半角号;隔开）
 ```
 
 
