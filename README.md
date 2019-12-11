@@ -36,8 +36,8 @@
 5、aiml 标记语言的参考网址
 
 `https://blog.csdn.net/xvshu/article/details/80973649`
+`https://www.yiibai.com/aiml/aiml_srai_tag.html#article-start`
 
 6、http 测试
 
-`get http://127.0.0.1:8080/ask?q=住宅可以开公司吗`
-
+`get http://127.0.0.1:8080/api/ask?q=住宅可以开公司吗`
