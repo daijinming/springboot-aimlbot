@@ -35,8 +35,9 @@
 
 5、aiml 标记语言的参考网址
 
-`https://blog.csdn.net/xvshu/article/details/80973649`
-`https://www.yiibai.com/aiml/aiml_srai_tag.html#article-start`
+`https://blog.csdn.net/xvshu/article/details/80973649`  
+
+`https://www.yiibai.com/aiml/aiml_introduction.html`
 
 6、http 测试
 
